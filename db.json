@@ -1,0 +1,69 @@
+{
+  "stoliki": [
+    {
+      "id_stolika": 1,
+      "il_miejsc": 10,
+      "stolik_type": "VIP",
+      "available": true
+    },
+    {
+      "id_stolika": 2,
+      "il_miejsc": 4,
+      "stolik_type": "normal",
+      "available": true
+    },
+    {
+      "id_stolika": 3,
+      "il_miejsc": 4,
+      "stolik_type": "normal",
+      "available": true
+    },
+    {
+      "id_stolika": 4,
+      "il_miejsc": 4,
+      "stolik_type": "normal",
+      "available": true
+    },
+    {
+      "id_stolika": 5,
+      "il_miejsc": 4,
+      "stolik_type": "normal",
+      "available": true
+    },
+    {
+      "id_stolika": 6,
+      "il_miejsc": 2,
+      "stolik_type": "normal",
+      "available": true
+    },
+    {
+      "id_stolika": 7,
+      "il_miejsc": 2,
+      "stolik_type": "normal",
+      "available": true
+    },
+    {
+      "id_stolika": 8,
+      "il_miejsc": 2,
+      "stolik_type": "normal",
+      "available": true
+    },
+    {
+      "id_stolika": 9,
+      "il_miejsc": 2,
+      "stolik_type": "normal",
+      "available": true
+    }
+  ],
+  "guests": [
+    {
+      "guestID": 1,
+      "guestName": "adminVIP",
+      "guestType": "VIP",
+      "guestMail": "adminVIP@vip.pl",
+      "questPassword": "najmocniejszehaslo123"
+    }
+  ],
+  "modul": [],
+  "artykul": []
+}

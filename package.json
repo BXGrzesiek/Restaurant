@@ -1,0 +1,22 @@
+{
+  "name": "restaurantreservation",
+  "version": "1.0.0",
+  "description": "Simple_RestaurantReservation_System",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RestaurantReservation"
+  },
+  "author": "BXGrzesiek - Grzegorz Biskup",
+  "license": "ISC",
+  "dependencies": {
+    "cjs": "0.0.11",
+    "express": "^4.16.4",
+    "lowdb": "^1.0.0",
+    "mongo": "^0.1.0",
+    "yarn": "^1.13.0"
+  }
+}
